@@ -11,6 +11,7 @@ a = A()
 print(a.set(a.v + 1))
 print(a)
 print(A)
+print(B)
 
 
 
