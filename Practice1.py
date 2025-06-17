@@ -1,6 +1,6 @@
-a=5
-b=6
-c=7
+a=15
+b=16
+c=17
 print(type(a))
 print(type(b))
 print(type(c))
