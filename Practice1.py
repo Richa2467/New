@@ -3,3 +3,7 @@ b=6
 print(type(a))
 print(type(b))
 print(a+b)
+
+
+
+
