@@ -1,0 +1,1 @@
+print("Local project on Gitlab")
