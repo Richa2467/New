@@ -131,6 +131,8 @@ for i in a:
         lar=a[i]
         sec_lar=lar
     elif lar> i  >sec_lar:
+
         sec_lar=a[i]
 
 print(sec_lar)
+print(lar)
